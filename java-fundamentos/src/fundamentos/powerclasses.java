@@ -1,7 +1,7 @@
 package fundamentos;
 
 public class powerclasses {
-    
+
     static void verificarCaracteres() {
         String espaco = " ";
         Boolean caracterBlank = espaco.isBlank(); // não considera espaços como caracteres
